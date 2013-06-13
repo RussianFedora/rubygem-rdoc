@@ -1,6 +1,6 @@
 %define rbname rdoc
 %define version 3.12
-%define release 2
+%define release 3
 
 Summary: RDoc produces HTML and command-line documentation for Ruby projects
 Name: rubygem-%{rbname}
